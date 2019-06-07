@@ -1,0 +1,5 @@
+from = "/*"
+  to = "https://banasrini.com"
+  status = 200
+  force = true
+  signed = "SECRET"
